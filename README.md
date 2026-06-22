@@ -19,12 +19,12 @@
 ## 💻 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,html,css,bootstrap,tailwind,mysql,git,github,visualstudio,vscode,postman,docker&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,ts,js,html,css,bootstrap,tailwind,mysql,git,github,visualstudio,vscode,postman,azure&perline=8" />
 </p>
 
 ### Expertise
 
-ASP.NET Core • React • SQL Server • Entity Framework Core • JWT Authentication • Clean Architecture • CQRS • REST APIs • System Design
+ASP.NET Core • React • SQL Server • Entity Framework Core • JWT Authentication • Clean Architecture • CQRS • REST APIs • Azure • System Design
 
 ---
 
@@ -65,7 +65,6 @@ A modern full-stack library management platform designed to streamline book mana
   <a href="https://www.linkedin.com/in/darshil-patel-202b31322">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-
   <a href="mailto:darshilpatel23114@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
