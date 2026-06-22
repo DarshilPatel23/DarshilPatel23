@@ -61,14 +61,14 @@ A modern full-stack library management platform designed to streamline book mana
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/darshil-patel-202b31322">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:darshilpatel23114@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-</p> 
+</p>
 
 ---
 
